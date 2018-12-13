@@ -16,8 +16,8 @@
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "So Simple Development Site"
-description: "A simple Jekyll theme for words and pictures."
+title: "JaeUng`s Blog"
+description: "Study Hard!"
 baseurl: #"/example" # the subpath of your site, e.g. "/blog"
 url: "https://kimjw9302.github.io"
 logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
@@ -101,32 +101,32 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
+  name: JaeUng
   picture: /images/michael-rose-photo.jpg
-  email:
-  twitter: mmistakes
+  email: jaewoong9302@gmail.com
+  twitter: 
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/jaewoong9302
       icon: fab fa-twitter-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
+      url: https://instagram.com/jaeung93
       icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/kimjw9302
       icon: fab fa-github-square
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/mmistakes
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/mmistakes
-    icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/mmistakes
-    icon: fab fa-github-square
+ - title: Twitter
+      url: https://twitter.com/jaewoong9302
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/jaeung93
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/kimjw9302
+      icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

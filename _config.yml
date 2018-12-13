@@ -20,7 +20,7 @@ title: "JaeUng`s Blog"
 description: "Study Hard!"
 baseurl: #"/example" # the subpath of your site, e.g. "/blog"
 url: "https://kimjw9302.github.io"
-logo: "/images/pecnil_logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/images/pencil_logo" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200

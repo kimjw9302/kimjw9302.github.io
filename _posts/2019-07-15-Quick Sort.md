@@ -10,7 +10,7 @@ last_modified_at: 2019-03-09T12:45:25-05:00
 
 
 ### Quick Sorting(퀵정렬) ?
-![퀵정렬이미지](/images/quickimg1.PNG) 
+![퀵정렬이미지](/images/quick_img1.PNG) 
 ### 구현 코드(Java)
 ```javascript()
 package Sort;
@@ -66,6 +66,7 @@ public class QuickSort {
 
 
 ```
+![퀵정렬이미지](/images/quick_img2.PNG) 
 
 ```bash
 퀵소트 / Quick Sorting

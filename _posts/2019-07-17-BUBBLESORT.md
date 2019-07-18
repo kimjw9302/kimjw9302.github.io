@@ -58,7 +58,7 @@ public class Bubble {
 		b.sort();
 		System.out.println("정렬완료!");
 		System.out.println(Arrays.toString(arr));
-	}
+	} 
 }
 
 ```

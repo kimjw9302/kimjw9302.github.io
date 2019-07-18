@@ -10,17 +10,12 @@ last_modified_at: 2019-03-09T12:45:25-05:00
 
 ### Counting Sort(카운팅정렬)?
 
-##### 이중포문 구현,
-##### 바깥 포문은 i = N-1 -> 0 포문을 돌리고,
-##### 안쪽 포문은 0부터  i 번만큼 돌립니다.
-##### 결국 회차별 가장 큰 값은 뒤로 가지기 때문에
-##### 반복 횟수를 줄일 수 있는 코드
-##### 
+##### 항목들의 순서를 결정하기 위해 집합에 각 항목이
+##### 몇개씩 있는지 세는 작업을 하여, 선형 시간에 정렬하는 효율적인 알고리즘
 
 ###### 
 #### ![카운트1](/images/counting_img1.PNG)
 
-#### ![카운트2](/images/counting_img2.PNG)
 
 ##### < 자바 코드 >
 ```javascript()
@@ -69,7 +64,7 @@ public class CountingSort {
 
 ```
 ##### < 결과창 >
-#### ![버블2](/images/bubble_img3.PNG)
+#### ![버블2](/images/counting_img3.PNG)
 ```bash
 Counting Sort / 카운팅정렬
 ```

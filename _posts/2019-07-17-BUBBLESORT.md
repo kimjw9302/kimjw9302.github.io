@@ -60,9 +60,10 @@ public class Bubble {
 		System.out.println(Arrays.toString(arr));
 	} 
 }
+
+```
 ##### < 결과창 >
 #### ![버블2](/images/bubble_img3.PNG)
-```
 ```bash
 한국관광공사
 ```

@@ -65,5 +65,5 @@ public class Bubble {
 ##### < 결과창 >
 #### ![버블2](/images/bubble_img3.PNG)
 ```bash
-한국관광공사
+BubbleSort / 버블정렬
 ```

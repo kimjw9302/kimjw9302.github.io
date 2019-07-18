@@ -22,7 +22,7 @@ last_modified_at: 2019-03-09T12:45:25-05:00
 
 #### ![버블2](/images/bubble_img2.PNG)
 
-###### 코드
+##### < 자바 코드 >
 ```javascript()
 
 import java.util.Arrays;
@@ -60,7 +60,8 @@ public class Bubble {
 		System.out.println(Arrays.toString(arr));
 	} 
 }
-
+##### < 결과창 >
+#### ![버블2](/images/bubble_img3.PNG)
 ```
 ```bash
 한국관광공사

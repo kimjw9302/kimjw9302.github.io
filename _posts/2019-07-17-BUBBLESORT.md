@@ -21,6 +21,47 @@ last_modified_at: 2019-03-09T12:45:25-05:00
 #### ![버블1](/images/bubble_img1.PNG)
 
 #### ![버블2](/images/bubble_img2.PNG)
+
+###### 코드
+```javascript()
+
+import java.util.Arrays;
+
+public class Bubble {
+	int[] arr;
+	Bubble(int [] arr){
+		this.arr = arr;
+		
+	}
+	public void swap(int a,int b) {
+		int temp = arr[a];
+		arr[a] = arr[b];
+		arr[b] = temp;
+	}
+	public void sort(){
+			
+		for(int i = arr.length-1; i >= 0;i--) {
+			System.out.println(arr.length-i+ "회차");
+			for(int j = 0 ; j < i ;j++) {
+				if(arr[j]>arr[j+1]) {
+					this.swap(j,j+1);
+					System.out.println(Arrays.toString(arr));
+				}
+				
+			}
+		}		
+	}
+	public static void main(String[] args) {
+		
+		int[] arr = {8,5,6,2,4};
+		Bubble b= new Bubble(arr);
+		b.sort();
+		System.out.println("정렬완료!");
+		System.out.println(Arrays.toString(arr));
+	}
+}
+
+```
 ```bash
 한국관광공사
 ```

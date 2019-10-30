@@ -2,7 +2,7 @@
 title: "알뜰살뜰 개인정보방침처리"
 date: 2019-10-30
 categories:
-  - 개인정보처리
+  - privacy
 last_modified_at: 2019-10-30T12:45:25-05:00
 ---
 

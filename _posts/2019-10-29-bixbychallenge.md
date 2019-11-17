@@ -57,7 +57,7 @@ Unknown_Error : 서버에 에러가 발생한 경우
 
 ####  Capsule의 상세 화면 
 사용자 발화 : 부산에서 닭고기 가격 알려줘
-![빅스비](/images/bixby_find.jpg)  
+![빅스비]<center><img src="/image/bixby_find.jpg"></center>
 사용자 발화 : 배추 가격 알려줘 
 ![빅스비](/images/bixby_find_2.jpg)	
 

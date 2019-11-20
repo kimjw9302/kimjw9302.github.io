@@ -1,6 +1,6 @@
 ---
 title: "2019 빅스비 캡슐 챌린지 시즌 2 - 알뜰살뜰 캡슐 제작"
-date: 2018-10-29
+date: 2019-10-29
 categories:
   - Project
   - Bixby
